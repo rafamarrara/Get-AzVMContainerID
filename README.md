@@ -1,5 +1,5 @@
 # Get-AzVMContainerId :grin:
-Some PowerShell examples on how to reach out to Azure WireServer from a VM or VMSS instance to get the ContainerId from Azure platform.
+Some PowerShell examples on how to reach out to [Azure WireServer](https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16) from a VM or VMSS instance to get the ContainerId from Azure platform.
 
 ![Get-AzVMContainerId](./images/getAzVMContainerId.png)
 

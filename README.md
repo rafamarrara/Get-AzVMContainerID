@@ -1,6 +1,7 @@
-# Get-AzVMContainerID
-Some PowerShell examples on how to reach out to Azure WireServer from a VM or VMSS instance to get the ContainerID from Azure platform.
+# Get-AzVMContainerId :grin:
+Some PowerShell examples on how to reach out to Azure WireServer from a VM or VMSS instance to get the ContainerId from Azure platform.
 
+![Get-AzVMContainerId](./images/getAzVMContainerId.png)
 
 ### Using Invoke-RestMethod
 ```PowerShell

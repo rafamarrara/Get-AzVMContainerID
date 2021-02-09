@@ -1,4 +1,4 @@
-# Get-AzContainerID
+# Get-AzVMContainerID
 Some PowerShell examples on how to reach out to Azure WireServer from a VM or VMSS instance to get the ContainerID from Azure platform.
 
 
